@@ -2,6 +2,8 @@ let str1="Hello"
 
 let str2="Raju"
 
+let str4;
+console.log(str4);
 let str3=str1+str2
 
 console.log(str3);
